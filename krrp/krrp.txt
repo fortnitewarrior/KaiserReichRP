@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"Imperial Germany RP"
+	"author"	"Adaster"
+	"menusystem"	"1"
+}
